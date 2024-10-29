@@ -1,5 +1,4 @@
 # @mnrendra/chalk
-
 Refactored [chalk](https://github.com/chalk/chalk) code to support both **CommonJS (CJS)** and **ES Modules (ESM)** with mixed exports. This allows users to `import` or `require` the module without needing to access the `.default` property.
 
 ## Benefits
